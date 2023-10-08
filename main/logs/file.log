@@ -1,0 +1,549 @@
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'user'
+Возникла ошибка:
+ 'Mails' object has no attribute 'time'
+Возникла ошибка:
+ 'Mails' object has no attribute 'time'
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 120>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 120
+2023-08-26 18:30:00+00:00 2023-08-26 14:21:02.613267+00:00
+120
+DO: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 120
+POSLE: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 119
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:21:02.677708+00:00
+None
+Возникла ошибка:
+ send_mail() takes 3 positional arguments but 4 were given
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 119>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 119
+2023-08-26 18:30:00+00:00 2023-08-26 14:22:02.611047+00:00
+119
+DO: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 119
+POSLE: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 118
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:22:02.642767+00:00
+None
+Возникла ошибка:
+ send_mail() takes 3 positional arguments but 4 were given
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 118>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 118
+2023-08-26 18:30:00+00:00 2023-08-26 14:23:02.621320+00:00
+118
+DO: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 118
+POSLE: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:23:02.651423+00:00
+None
+Возникла ошибка:
+ send_mail() takes 3 positional arguments but 4 were given
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+2023-08-26 18:30:00+00:00 2023-08-26 14:24:02.841512+00:00
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:24:02.841565+00:00
+None
+Возникла ошибка:
+ send_mail() takes 3 positional arguments but 4 were given
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+2023-08-26 18:30:00+00:00 2023-08-26 14:25:03.149357+00:00
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:25:03.149412+00:00
+None
+Возникла ошибка:
+ send_mail() takes 3 positional arguments but 4 were given
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+2023-08-26 18:30:00+00:00 2023-08-26 14:26:02.292348+00:00
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:26:02.292410+00:00
+None
+Возникла ошибка:
+ send_mail() takes 3 positional arguments but 4 were given
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+2023-08-26 18:30:00+00:00 2023-08-26 14:27:02.583430+00:00
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:27:02.583480+00:00
+None
+Возникла ошибка:
+ Invalid address; only <QuerySet > could be parsed from "<QuerySet ['kcasw0882@gmail.com', 'sendtokenforauth@gmail.com']>"
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117>, <Mails: main.User.None тун тун тун туруру тун тун dsadsa False None None>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 1>, <Mails: main.User.None Перд ееркр False None 1>, <Mails: main.User.None 1488 42343242 False None 1>, <Mails: main.User.None 1 1 False None 1>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+2023-08-26 18:30:00+00:00 2023-08-26 14:28:02.316403+00:00
+main.User.None тун тун тун туруру тун тун dsadsa False None None
+None 2023-08-26 14:28:02.316453+00:00
+None
+email sent
+main.User.None тун тун тун туруру тун тун 3213 False None 1
+None 2023-08-26 14:28:05.526336+00:00
+1
+DO: main.User.None тун тун тун туруру тун тун 3213 False None 1
+POSLE: main.User.None тун тун тун туруру тун тун 3213 False None 0
+main.User.None Перд ееркр False None 1
+None 2023-08-26 14:28:05.588111+00:00
+1
+DO: main.User.None Перд ееркр False None 1
+POSLE: main.User.None Перд ееркр False None 0
+main.User.None 1488 42343242 False None 1
+None 2023-08-26 14:28:05.649224+00:00
+1
+DO: main.User.None 1488 42343242 False None 1
+POSLE: main.User.None 1488 42343242 False None 0
+main.User.None 1 1 False None 1
+None 2023-08-26 14:28:05.712241+00:00
+1
+DO: main.User.None 1 1 False None 1
+POSLE: main.User.None 1 1 False None 0
+<QuerySet []>
+<QuerySet []>
+<QuerySet [<Mails: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 5>]>
+main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 5
+None 2023-08-26 14:33:02.890282+00:00
+5
+DO: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 5
+POSLE: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 4
+<QuerySet [<Mails: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 4>]>
+main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 4
+None 2023-08-26 14:34:02.195843+00:00
+4
+DO: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 4
+POSLE: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 3
+<QuerySet [<Mails: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 3>]>
+main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 3
+None 2023-08-26 14:35:02.384970+00:00
+3
+DO: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 3
+POSLE: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 2
+<QuerySet [<Mails: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 2>]>
+main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 2
+None 2023-08-26 14:36:02.580986+00:00
+2
+DO: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 2
+POSLE: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 1
+<QuerySet [<Mails: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 1>]>
+main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 1
+None 2023-08-26 14:37:02.562411+00:00
+1
+DO: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 1
+POSLE: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 0
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 0>, <Mails: main.User.None Перд ееркр False None 0>, <Mails: main.User.None 1488 42343242 False None 0>, <Mails: main.User.None 1 1 False None 0>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+2023-08-26 18:30:00+00:00 2023-08-26 14:29:02.931383+00:00
+main.User.None тун тун тун туруру тун тун 3213 False None 0
+None 2023-08-26 14:29:02.931441+00:00
+0
+email sent
+main.User.None Перд ееркр False None 0
+None 2023-08-26 14:38:01.944701+00:00
+0
+email sent
+main.User.None 1488 42343242 False None 0
+None 2023-08-26 14:38:02.017705+00:00
+0
+email sent
+main.User.None 1 1 False None 0
+None 2023-08-26 14:38:02.078462+00:00
+0
+email sent
+<QuerySet [<Mails: main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 0>]>
+main.User.None Здраствуйте, представители мужского гос-ва ГОЙДА False None 0
+None 2023-08-26 14:38:02.662917+00:00
+0
+email sent
+<QuerySet [<Mails: main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117>, <Mails: main.User.None тун тун тун туруру тун тун 3213 False None 0>, <Mails: main.User.None Перд ееркр False None 0>, <Mails: main.User.None 1488 42343242 False None 0>, <Mails: main.User.None 1 1 False None 0>]>
+main.User.None Это блаблаблааьфдаьфыдльа это балфдацльафц False 2023-08-26 18:30:00+00:00 117
+2023-08-26 18:30:00+00:00 2023-08-26 14:30:02.757570+00:00
+main.User.None тун тун тун туруру тун тун 3213 False None 0
+None 2023-08-26 14:30:02.757610+00:00
+0
+email sent
+main.User.None Перд ееркр False None 0
+None 2023-08-26 14:30:05.355332+00:00
+0
+email sent
+main.User.None 1488 42343242 False None 0
+None 2023-08-26 14:39:01.046469+00:00
+0
+email sent
+main.User.None 1 1 False None 0
+None 2023-08-26 14:39:01.078131+00:00
+0
+email sent
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet [<Mails: main.User.None ffff ffff False None 1>]>
+main.User.None ffff ffff False None 1
+None 2023-08-26 14:58:02.653296+00:00
+1
+DO: main.User.None ffff ffff False None 1
+POSLE: main.User.None ffff ffff False None 0
+<QuerySet [<Mails: main.User.None ffff ffff False None 0>]>
+main.User.None ffff ffff False None 0
+None 2023-08-26 15:00:03.038055+00:00
+0
+email sent
+<QuerySet [<Mails: main.User.None ffff ffff False None 0>, <Mails: main.User.None dadadada dadad False None None>]>
+main.User.None ffff ffff False None 0
+None 2023-08-26 15:01:02.984526+00:00
+0
+email sent
+main.User.None dadadada dadad False None None
+None 2023-08-26 15:01:06.809282+00:00
+None
+email sent
+<QuerySet [<Mails: main.User.None ffff ffff False None 0>]>
+main.User.None ffff ffff False None 0
+None 2023-08-26 15:02:02.702707+00:00
+0
+email sent
+<QuerySet []>
+<QuerySet []>
+Возникла ошибка:
+ no such column: main_mails.dynamic_periodic
+Возникла ошибка:
+ no such column: main_mails.dynamic_periodic
+Возникла ошибка:
+ no such column: main_mails.dynamic_periodic
+<QuerySet [<Mails: main.User.None ffff ffff False None 0>]>
+main.User.None ffff ffff False None 0
+None 2023-08-26 14:59:02.975226+00:00
+0
+email sent
+Возникла ошибка:
+ no such column: main_mails.dynamic_periodic
+Возникла ошибка:
+ no such column: main_mails.dynamic_periodic
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet [<Mails: main.User.None Это смс отправлено в 15:15 абв False 2023-08-26 15:15:00+00:00 None>]>
+main.User.None Это смс отправлено в 15:15 абв False 2023-08-26 15:15:00+00:00 None
+2023-08-26 15:15:00+00:00 2023-08-26 15:14:03.226587+00:00
+<QuerySet [<Mails: main.User.None Это смс отправлено в 15:15 абв False 2023-08-26 15:15:00+00:00 None>]>
+main.User.None Это смс отправлено в 15:15 абв False 2023-08-26 15:15:00+00:00 None
+2023-08-26 15:15:00+00:00 2023-08-26 15:15:02.116164+00:00
+None
+email sent
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+Возникла ошибка:
+ no such column: main_mails.logs_id
+Возникла ошибка:
+ no such column: main_mails.logs_id
+Возникла ошибка:
+ no such column: main_mails.logs_id
+Возникла ошибка:
+ no such column: main_mails.logs_id
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+Возникла ошибка:
+ 'NoneType' object has no attribute 'status'
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+email sent
+1
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+Возникла ошибка:
+ local variable 'response' referenced before assignment
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+2023-08-26 20:32:02.038516+00:00
+email sent
+email sent
+2023-08-26 20:33:02.745891+00:00
+email sent
+2023-08-26 20:33:03.058626+00:00
+2023-08-26 20:34:02.370171+00:00
+email sent
+2023-08-26 20:35:02.642695+00:00
+email sent
+None 2023-08-26 20:25:00+00:00
+Возникла ошибка:
+ '<=' not supported between instances of 'NoneType' and 'datetime.datetime'
+None 2023-08-26 20:25:00+00:00
+Возникла ошибка:
+ '<=' not supported between instances of 'NoneType' and 'datetime.datetime'
+None 2023-08-26 20:25:00+00:00
+Возникла ошибка:
+ '<=' not supported between instances of 'NoneType' and 'datetime.datetime'
+None 2023-08-26 20:25:00+00:00
+Возникла ошибка:
+ '<=' not supported between instances of 'NoneType' and 'datetime.datetime'
+None 2023-08-26 20:25:00+00:00
+True
+email sent
+2023-08-26 21:37:00+00:00 2023-08-26 21:42:00+00:00
+False
+None 2023-08-26 20:25:00+00:00
+True
+email sent
+None 2023-08-26 20:25:00+00:00
+True
+email sent
+2023-08-26 20:42:00+00:00 2023-08-26 20:47:00+00:00
+False
+None 2023-08-26 20:25:00+00:00
+True
+email sent
+None 2023-08-26 20:25:00+00:00
+True
+email sent
+None
+2023-08-26 20:25:00+00:00
+2023-08-26 20:45:02.365027+00:00
+email sent
+None
+2023-08-26 20:25:00+00:00
+2023-08-26 20:46:02.785565+00:00
+email sent
+2023-08-26 20:46:00+00:00
+2023-08-26 20:50:00+00:00
+2023-08-26 20:46:02.906153+00:00
+None
+2023-08-26 20:25:00+00:00
+2023-08-26 20:47:02.038694+00:00
+email sent
+2023-08-26 20:52:00+00:00
+2023-08-26 20:57:00+00:00
+2023-08-26 20:53
+Возникла ошибка:
+ '<=' not supported between instances of 'datetime.datetime' and 'str'
+2023-08-26 20:52:00+00:00
+2023-08-26 20:57:00+00:00
+2023-08-26 20:54:03.154646+00:00
+mail_end and current_time: False
+2023-08-26 20:56:00+00:00
+2023-08-26 21:00:00+00:00
+2023-08-26 20:57:03.101074+00:00
+mail_end and current_time: False
+email sent
+2023-08-26 20:56:00+00:00
+2023-08-26 21:00:00+00:00
+2023-08-26 20:59:03.146679+00:00
+mail_end and current_time: False
+email sent
+2023-08-26 20:56:00+00:00
+2023-08-26 21:00:00+00:00
+2023-08-26 21:00:03.252209+00:00
+mail_end and current_time: True
+2023-08-26 20:56:00+00:00
+2023-08-26 21:00:00+00:00
+2023-08-26 20:58:02.907800+00:00
+mail_end and current_time: False
+email sent
+Возникла ошибка:
+ no such table: main_mails
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+email sent
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+email sent
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+email sent
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+email sent
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+Возникла ошибка:
+ FOREIGN KEY constraint failed
+email sent
+email sent
+email sent
+email sent
+email sent
